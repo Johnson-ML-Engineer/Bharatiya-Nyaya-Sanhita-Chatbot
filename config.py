@@ -4,4 +4,4 @@ from dotenv import load_dotenv
 GOOGLE_API_KEY = "AIzaSyBKzMLEIN6IoNFzpxJtrNH-c53Sx1DQzNU"
 def setup_environment():
     load_dotenv()
-    return os.getenv("GOOGLE_API_KEY")
+    return GOOGLE_API_KEY
