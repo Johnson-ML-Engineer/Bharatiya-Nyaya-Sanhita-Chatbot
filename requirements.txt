@@ -1,9 +1,9 @@
-streamlit
-python-dotenv
-langchain
-langchain-google-genai
-langchain-chroma
-google-generativeai
-langchain_community
-langchain_experimental
-pypdf
+streamlit == 1.37.0
+python-dotenv == 1.0.1
+langchain == 0.2.11
+langchain-google-genai ==1.0.8
+langchain-chroma == 0.1.2
+google-generativeai == 0.7.2
+langchain_community == 0.2.10
+langchain_experimental == 0.0.63
+pypdf == 4.3.1
