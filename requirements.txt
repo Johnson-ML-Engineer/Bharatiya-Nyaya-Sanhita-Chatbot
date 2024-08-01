@@ -6,3 +6,4 @@ langchain-chroma
 google-generativeai
 langchain_community
 langchain_experimental
+pypdf
